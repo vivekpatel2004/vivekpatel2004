@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/vivekpatel2004/vivekpatel2004/main/header.svg" width="100%" alt="Sleek Hero">
 
-<!--
-**vivekpatel2004/vivekpatel2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/vivekpatel2004/vivekpatel2004/main/about.svg" width="100%" alt="Sleek About">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://raw.githubusercontent.com/vivekpatel2004/vivekpatel2004/main/skills.svg" width="100%" alt="Sleek Stack">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/vivekpatel2004/vivekpatel2004/main/footer.svg" width="100%" alt="Sleek Wave">
+
+<br/>
+
+<img src="https://ryme.md/api/render/sleek-github-stats?u=vivekpatel2004&bg=0d0d10&fg=f7f7fb&accent=dc2626&muted=a5a5b3" width="100%" alt="Sleek GitHub">
