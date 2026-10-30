@@ -22,7 +22,9 @@
     <a href="mailto:vivekpatel9026@gmail.com">
       <img src="https://img.shields.io/badge/Email-Let's%20Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="www.linkedin.com/in/
+vivek-chaudhary-a5a483271
+">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
@@ -253,7 +255,7 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://portfolio-vivek-umber.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-DB2777?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
