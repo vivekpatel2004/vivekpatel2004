@@ -1,118 +1,72 @@
 
-<!-- ===================== HERO ===================== -->
+<!--
+  VIVEK CHAUDHARY
+  GitHub Profile — Minimal Light Edition
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:172554,100:312e81&height=190&section=header&text=VIVEK%20CHAUDHARY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20BACKEND%20%7C%20AI%20APPLICATIONS&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
+# Vivek Chaudhary
+
+### Full Stack Developer · Python · AI Applications
+
+*Building useful software, exploring intelligent systems, and learning by shipping.*
 
 <br/>
 
-<a href="https://portfolio-vivek-umber.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://portfolio-vivek-umber.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat&logo=vercel&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:vivekpatel9026@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vivekpatel2004&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=vivekpatel2004&label=PROFILE%20VIEWS&color=2563EB&style=flat" />
 
 </div>
 
 ---
 
-<!-- ===================== INTRODUCTION ===================== -->
+### A little about me
 
-## 01 / ABOUT ME
+Hi, I'm Vivek — a developer interested in the space where **web engineering meets AI**.
 
-<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+I enjoy building complete applications, working with backend systems, connecting APIs, and experimenting with ways to make software more useful.
 
-I'm **Vivek Chaudhary**, a Computer Science graduate and Full Stack Developer interested in building practical web applications and AI-powered software.
-
-My primary focus is Python backend development, modern frontend engineering, REST APIs, and integrating Generative AI into real-world applications.
-
-I enjoy understanding how applications work end-to-end — from designing user interfaces to developing backend services and connecting databases and external APIs.
-
-- Based in Delhi NCR, India
-- B.Tech in Computer Science & Engineering
-- Focused on Python, FastAPI and React
-- Exploring LLMs, RAG and AI application development
-- Interested in building useful, scalable software
-
-<br clear="right"/>
+Currently focused on Python, FastAPI, React, and practical AI integrations.
 
 ---
 
-## 02 / TECHNICAL EXPERTISE
+### What I'm building now
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+**01 · Backend**
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap" />
-
-- React.js
-- Next.js
-- TypeScript
-- Responsive UI
-- React Router
+Building APIs and backend services with Python and FastAPI.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+**02 · AI Applications**
 
-- Python
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-
-### AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-
-- Generative AI
-- LLM Integration
-- Retrieval-Augmented Generation
-- Embeddings & Semantic Search
-- TensorFlow & Keras
+Exploring LLMs, RAG, embeddings, and document-based AI workflows.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+**03 · Full Stack**
 
-- MySQL
-- MongoDB
-- SQLite
-- Turso / libSQL
-- Firebase
-- Backblaze B2
-
-</td>
-<td width="50%" valign="top">
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" />
-
-- Git & GitHub
-- Docker
-- Postman
-- Vercel
-- Render
-- API Integration
+Connecting frontend experiences, APIs, databases, and deployment.
 
 </td>
 </tr>
@@ -120,170 +74,116 @@ I enjoy understanding how applications work end-to-end — from designing user i
 
 ---
 
-## 03 / FEATURED PROJECTS
+### Selected projects
 
-A selection of applications I've developed, covering full-stack engineering, backend development and AI integration.
+A few experiments and applications from my development journey.
 
-### 01. AI DOCUMENT CHATBOT
-**RAG-Based Document Question Answering Application**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://ai-document-chatbot-xi.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+#### AI Document Chatbot
 
-A document-based AI application that allows users to upload files and ask questions using their document's content.
+**Ask questions. Get answers from your documents.**
 
-**Core Implementation**
-- Built frontend using React.js, TypeScript and Vite.
-- Developed backend APIs using Python and FastAPI.
-- Implemented PDF, DOCX and TXT document processing.
-- Added text extraction, chunking and embedding-based retrieval.
-- Integrated Google Gemini API with a RAG workflow.
-- Used Turso/libSQL for application data and Backblaze B2 for document storage.
+A document Q&A application using retrieval-based context and Gemini-powered responses.
 
-**Technology Stack**
+**Built with**
 
-`React` `TypeScript` `Python` `FastAPI` `Gemini API` `RAG` `Turso` `Backblaze B2`
+`React` `TypeScript` `FastAPI` `Gemini` `RAG`
 
----
+[View live project ↗](https://ai-document-chatbot-xi.vercel.app/)
 
-### 02. SNAPDIET
-**AI Food Recognition & Recipe Application**
+</td>
+<td width="50%" valign="top">
 
-<a href="https://snapdiet-frontend.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+#### SnapDiet
 
-An AI-powered application that identifies food images and provides relevant recipes and nutritional information.
+**From food images to useful nutrition insights.**
 
-**Core Implementation**
-- Developed a responsive React.js frontend.
-- Built backend services using Python and FastAPI.
-- Implemented food image classification using a CNN model.
-- Used TensorFlow and Keras for model development.
-- Integrated Spoonacular API for recipe and nutrition information.
-- Connected frontend and backend services with MongoDB.
+An AI food recognition application connecting image classification with recipe and nutrition information.
 
-**Technology Stack**
+**Built with**
 
-`React` `Python` `FastAPI` `TensorFlow` `Keras` `CNN` `MongoDB` `Spoonacular API`
+`React` `Python` `FastAPI` `TensorFlow` `Keras`
 
----
+[View live project ↗](https://snapdiet-frontend.vercel.app/)
 
-### 03. TASKFLOW
-**Full Stack Task Management Application**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://taskflow-app-three-ruby.vercel.app/">
-  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+#### TaskFlow
 
-A task management application with authentication and user-specific task organization.
+**A simpler way to organize everyday work.**
 
-**Core Implementation**
-- Built frontend using React.js and Vite.
-- Developed REST APIs using Node.js and Express.js.
-- Implemented JWT-based authentication.
-- Added task creation, updating, deletion and filtering.
-- Integrated MySQL for relational data management.
-- Used bcrypt for password hashing and parameterized SQL queries.
+A full-stack task manager with authentication and user-specific task workflows.
 
-**Technology Stack**
+**Built with**
 
-`React` `JavaScript` `Node.js` `Express.js` `MySQL` `JWT` `bcrypt`
+`React` `Node.js` `Express` `MySQL` `JWT`
+
+[View live project ↗](https://taskflow-app-three-ruby.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+#### The next idea
+
+**Always learning. Always experimenting.**
+
+Exploring better backend architecture, AI workflows, and practical ways to turn ideas into working products.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 04 / PROFESSIONAL EXPERIENCE
-
-### Software Implementation Engineer
-**Satoop Media Pvt. Ltd.** | June 2025 – January 2026
-
-- Supported implementation, configuration and testing of healthcare management software.
-- Performed data mapping and validation to support accurate application workflows.
-- Troubleshot application issues and coordinated with development teams.
-- Assisted with software deployment and application functionality testing.
-
-### Web Development Intern
-**Bharat Intern** | November 2024 – January 2025
-
-- Developed responsive web interfaces using HTML, CSS and JavaScript.
-- Worked with React.js and third-party API integrations.
-- Built a Netflix login interface, weather application and personal portfolio.
-- Practiced reusable frontend components and Git/GitHub workflows.
-
----
-
-## 05 / EDUCATION
-
-**Bachelor of Technology — Computer Science & Engineering**
-
-Shri Ramswaroop Memorial University, Lucknow
-
-`2021 – 2025`
-
----
-
-## 06 / CERTIFICATIONS
-
-| Certification | Issuer | Date |
-|---|---|---|
-| The Complete 2024 Web Development Bootcamp | Udemy | Jan 2025 |
-| The Cybersecurity Threat Landscape | LinkedIn Learning | Mar 2024 |
-
-[View Web Development Certificate](https://www.udemy.com/certificate/UC-c255618f-c8a2-4d0c-94a8-a56c39ea6045/)
-
-[View Cybersecurity Certificate](https://www.linkedin.com/learning/certificates/5729db5415530f832b88872f2f41e118e1c896e93590caae005b348fe5ae1f35?trk=share_certificate)
-
----
-
-## 07 / GITHUB ACTIVITY
+### Tech I work with
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=vivekpatel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,nodejs,express,mysql,mongodb,firebase,tensorflow,git,github,docker,postman&theme=light" />
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=vivekpatel2004&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekpatel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<sub>Python · JavaScript · TypeScript · React · FastAPI · Node.js · SQL · MongoDB · Generative AI</sub>
 
 </div>
 
 ---
 
-## 08 / CURRENT FOCUS
-
-- Improving Python backend development with FastAPI.
-- Building practical AI-powered applications.
-- Learning LLM integration, RAG and semantic search.
-- Improving API design, database management and deployment.
-- Strengthening software engineering fundamentals.
-
----
-
-## 09 / LET'S CONNECT
-
-I'm open to opportunities involving **Full Stack Development, Python Backend Development and AI Application Development**.
+### GitHub activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/vivekpatel2004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vivekpatel2004&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=374151&icon_color=2563EB" />
 </a>
-<a href="https://portfolio-vivek-umber.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:vivekpatel9026@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/vivekpatel2004">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatel2004&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=374151" />
 </a>
 
 <br/><br/>
 
-**Building • Learning • Improving**
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekpatel2004&bg_color=FFFFFF&color=374151&line=2563EB&point=1D4ED8&area=true&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:312e81&height=70&section=footer" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect.
+
+Have an interesting idea, a project to build, or something worth discussing?
+
+<a href="mailto:vivekpatel9026@gmail.com">**Drop me a message →**</a>
+
+<br/><br/>
+
+<sub>Made with curiosity and a lot of commits.</sub>
 
 </div>
