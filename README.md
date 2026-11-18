@@ -1,268 +1,289 @@
 
-<div align="center" id="top">
+<!-- ===================== HERO ===================== -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=Vivek%20Chaudhary&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20%7C%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Animated gradient hero banner"/>
+<div align="center">
 
-  <p>
-    <strong>Engineering modern web experiences. Integrating intelligence. Solving real problems.</strong>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:172554,100:312e81&height=190&section=header&text=VIVEK%20CHAUDHARY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20PYTHON%20BACKEND%20%7C%20AI%20APPLICATIONS&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
 
-  <p>
-    <a href="#about">About</a> &nbsp; ✦ &nbsp;
-    <a href="#stack">Tech Stack</a> &nbsp; ✦ &nbsp;
-    <a href="#projects">Projects</a> &nbsp; ✦ &nbsp;
-    <a href="#experience">Experience</a> &nbsp; ✦ &nbsp;
-    <a href="#contact">Contact</a>
-  </p>
+<br/>
 
-  <p>
-    <a href="https://github.com/vivekpatel2004">
-      <img src="https://img.shields.io/badge/GitHub-View%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="mailto:vivekpatel9026@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Let's%20Connect-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+<a href="https://portfolio-vivek-umber.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vivekpatel9026@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=vivekpatel2004&style=for-the-badge&color=7C3AED&label=PROFILE+VISITS" alt="Profile visits"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=vivekpatel2004&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" />
 
 </div>
 
 ---
 
-<h2 id="about">◈ About Me</h2>
+<!-- ===================== INTRODUCTION ===================== -->
 
-<p>
-  I'm <strong>Vivek Chaudhary</strong>, a Computer Science graduate and software developer based in Delhi, India. I build full-stack applications using React, JavaScript, Node.js, Python, FastAPI, and databases, with a growing focus on AI-powered products.
-</p>
+## 01 / ABOUT ME
+
+<img align="right" width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatel2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+I'm **Vivek Chaudhary**, a Computer Science graduate and Full Stack Developer interested in building practical web applications and AI-powered software.
+
+My primary focus is Python backend development, modern frontend engineering, REST APIs, and integrating Generative AI into real-world applications.
+
+I enjoy understanding how applications work end-to-end — from designing user interfaces to developing backend services and connecting databases and external APIs.
+
+- Based in Delhi NCR, India
+- B.Tech in Computer Science & Engineering
+- Focused on Python, FastAPI and React
+- Exploring LLMs, RAG and AI application development
+- Interested in building useful, scalable software
+
+<br clear="right"/>
+
+---
+
+## 02 / TECHNICAL EXPERTISE
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ What I Do</h3>
-      <ul>
-        <li>Build responsive web applications</li>
-        <li>Design and integrate REST APIs</li>
-        <li>Implement authentication workflows</li>
-        <li>Connect databases and third-party services</li>
-        <li>Integrate machine learning capabilities</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Current Direction</h3>
-      <ul>
-        <li>Python backend development</li>
-        <li>FastAPI service architecture</li>
-        <li>TypeScript for full-stack projects</li>
-        <li>LLM-powered application workflows</li>
-        <li>Testing, security, and deployment</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap" />
+
+- React.js
+- Next.js
+- TypeScript
+- Responsive UI
+- React Router
+
+</td>
+<td width="50%" valign="top">
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+
+- Python
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+- Generative AI
+- LLM Integration
+- Retrieval-Augmented Generation
+- Embeddings & Semantic Search
+- TensorFlow & Keras
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite" />
+
+- MySQL
+- MongoDB
+- SQLite
+- Turso / libSQL
+- Firebase
+- Backblaze B2
+
+</td>
+<td width="50%" valign="top">
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel" />
+
+- Git & GitHub
+- Docker
+- Postman
+- Vercel
+- Render
+- API Integration
+
+</td>
+</tr>
 </table>
-
-> <strong>My mindset:</strong> Learn deeply. Build practically. Validate carefully. Improve continuously.
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
 
-<h2 id="stack" align="center">⚙️ Technology Universe</h2>
+## 03 / FEATURED PROJECTS
+
+A selection of applications I've developed, covering full-stack engineering, backend development and AI integration.
+
+### 01. AI DOCUMENT CHATBOT
+**RAG-Based Document Question Answering Application**
+
+<a href="https://ai-document-chatbot-xi.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+A document-based AI application that allows users to upload files and ask questions using their document's content.
+
+**Core Implementation**
+- Built frontend using React.js, TypeScript and Vite.
+- Developed backend APIs using Python and FastAPI.
+- Implemented PDF, DOCX and TXT document processing.
+- Added text extraction, chunking and embedding-based retrieval.
+- Integrated Google Gemini API with a RAG workflow.
+- Used Turso/libSQL for application data and Backblaze B2 for document storage.
+
+**Technology Stack**
+
+`React` `TypeScript` `Python` `FastAPI` `Gemini API` `RAG` `Turso` `Backblaze B2`
+
+---
+
+### 02. SNAPDIET
+**AI Food Recognition & Recipe Application**
+
+<a href="https://snapdiet-frontend.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+An AI-powered application that identifies food images and provides relevant recipes and nutritional information.
+
+**Core Implementation**
+- Developed a responsive React.js frontend.
+- Built backend services using Python and FastAPI.
+- Implemented food image classification using a CNN model.
+- Used TensorFlow and Keras for model development.
+- Integrated Spoonacular API for recipe and nutrition information.
+- Connected frontend and backend services with MongoDB.
+
+**Technology Stack**
+
+`React` `Python` `FastAPI` `TensorFlow` `Keras` `CNN` `MongoDB` `Spoonacular API`
+
+---
+
+### 03. TASKFLOW
+**Full Stack Task Management Application**
+
+<a href="https://taskflow-app-three-ruby.vercel.app/">
+  <img src="https://img.shields.io/badge/LIVE%20APPLICATION-6366F1?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+
+A task management application with authentication and user-specific task organization.
+
+**Core Implementation**
+- Built frontend using React.js and Vite.
+- Developed REST APIs using Node.js and Express.js.
+- Implemented JWT-based authentication.
+- Added task creation, updating, deletion and filtering.
+- Integrated MySQL for relational data management.
+- Used bcrypt for password hashing and parameterized SQL queries.
+
+**Technology Stack**
+
+`React` `JavaScript` `Node.js` `Express.js` `MySQL` `JWT` `bcrypt`
+
+---
+
+## 04 / PROFESSIONAL EXPERIENCE
+
+### Software Implementation Engineer
+**Satoop Media Pvt. Ltd.** | June 2025 – January 2026
+
+- Supported implementation, configuration and testing of healthcare management software.
+- Performed data mapping and validation to support accurate application workflows.
+- Troubleshot application issues and coordinated with development teams.
+- Assisted with software deployment and application functionality testing.
+
+### Web Development Intern
+**Bharat Intern** | November 2024 – January 2025
+
+- Developed responsive web interfaces using HTML, CSS and JavaScript.
+- Worked with React.js and third-party API integrations.
+- Built a Netflix login interface, weather application and personal portfolio.
+- Practiced reusable frontend components and Git/GitHub workflows.
+
+---
+
+## 05 / EDUCATION
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+Shri Ramswaroop Memorial University, Lucknow
+
+`2021 – 2025`
+
+---
+
+## 06 / CERTIFICATIONS
+
+| Certification | Issuer | Date |
+|---|---|---|
+| The Complete 2024 Web Development Bootcamp | Udemy | Jan 2025 |
+| The Cybersecurity Threat Landscape | LinkedIn Learning | Mar 2024 |
+
+[View Web Development Certificate](https://www.udemy.com/certificate/UC-c255618f-c8a2-4d0c-94a8-a56c39ea6045/)
+
+[View Cybersecurity Certificate](https://www.linkedin.com/learning/certificates/5729db5415530f832b88872f2f41e118e1c896e93590caae005b348fe5ae1f35?trk=share_certificate)
+
+---
+
+## 07 / GITHUB ACTIVITY
 
 <div align="center">
 
-  <h3>01 — Frontend Engineering</h3>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=vivekpatel2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
 
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,vite&theme=dark&perline=8" alt="Frontend technologies"/>
+<br/>
 
-  <h3>02 — Backend & API Engineering</h3>
+<img width="100%" src="https://streak-stats.demolab.com?user=vivekpatel2004&theme=tokyonight&hide_border=true&background=0D1117" />
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=8" alt="Backend technologies"/>
+<br/>
 
-  <h3>03 — Databases & Storage</h3>
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis&theme=dark&perline=8" alt="Database technologies"/>
-
-  <h3>04 — AI, Machine Learning & Tools</h3>
-
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,postman,docker,vercel&theme=dark&perline=8" alt="AI and developer tools"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekpatel2004&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/JWT%20Authentication-7C3AED?style=flat-square" alt="JWT"/>
-  <img src="https://img.shields.io/badge/API%20Integration-0891B2?style=flat-square" alt="API Integration"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-0F766E?style=flat-square" alt="Data Validation"/>
-  <img src="https://img.shields.io/badge/Responsive%20Design-DB2777?style=flat-square" alt="Responsive design"/>
-</p>
+---
 
-<p align="center">
-  <em>Exploring deeper skills in PostgreSQL, Redis, Prisma, SQLAlchemy, Docker, CI/CD, LLM integration, structured outputs, embeddings, and RAG.</em>
-</p>
+## 08 / CURRENT FOCUS
 
-<p align="right"><a href="#top">↑ Back to top</a></p>
+- Improving Python backend development with FastAPI.
+- Building practical AI-powered applications.
+- Learning LLM integration, RAG and semantic search.
+- Improving API design, database management and deployment.
+- Strengthening software engineering fundamentals.
 
 ---
 
-<h2 id="projects" align="center">🚀 Selected Projects</h2>
+## 09 / LET'S CONNECT
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍲 SnapDiet</h3>
-      <p><strong>AI Food Recognition & Recipe Discovery</strong></p>
-      <p>An application that classifies food images and connects predictions with nutrition information and recipe recommendations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      </p>
-      <ul>
-        <li>TensorFlow CNN image classification</li>
-        <li>Nutrition and recipe API integration</li>
-        <li>Image upload and prediction workflow</li>
-        <li>Responsive React interface</li>
-      </ul>
-      <a href="https://github.com/vivekpatel2004">Explore repositories ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✅ TaskFlow</h3>
-      <p><strong>Full-Stack Task Management</strong></p>
-      <p>A task manager with authentication, protected APIs, and user-specific task workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      </p>
-      <ul>
-        <li>JWT authentication and protected routes</li>
-        <li>Task CRUD operations</li>
-        <li>Status, priority, and due-date handling</li>
-        <li>Bcrypt hashing and parameterized SQL</li>
-      </ul>
-      <a href="https://github.com/vivekpatel2004">Explore repositories ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 Royal Phoenicia</h3>
-      <p><strong>Hotel Booking Platform</strong></p>
-      <p>A hotel booking website with user authentication, booking workflows, and an admin dashboard.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-      </p>
-      <ul>
-        <li>Responsive room browsing and booking flows</li>
-        <li>Firebase Authentication</li>
-        <li>User and admin dashboard workflows</li>
-        <li>Frontend deployment on Vercel</li>
-      </ul>
-      <a href="https://github.com/vivekpatel2004">Explore repositories ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI Application Engineering</h3>
-      <p><strong>Current Learning Direction</strong></p>
-      <p>Building stronger foundations for practical AI-powered web products.</p>
-      <ul>
-        <li>Python backend services with FastAPI</li>
-        <li>LLM API integration and structured output</li>
-        <li>Embeddings and retrieval-augmented generation</li>
-        <li>Validation, testing, and deployment</li>
-      </ul>
-      <p><em>Current learning focus—not a completed-project claim.</em></p>
-    </td>
-  </tr>
-</table>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
----
-
-<h2 id="experience">💼 Professional Experience</h2>
-
-<h3>Software Implementation Engineer — Satoop Media Pvt. Ltd.</h3>
-
-<p><em>June 2025 – January 2026</em></p>
-
-<ul>
-  <li>Supported implementation, testing, and deployment of healthcare applications at client locations.</li>
-  <li>Performed data mapping, validation, and application configuration for system integration.</li>
-  <li>Troubleshot application issues and coordinated with development teams.</li>
-</ul>
-
-<h3>Web Development Intern — Bharat Intern</h3>
-
-<p><em>November 2024 – January 2025</em></p>
-
-<ul>
-  <li>Developed responsive applications using HTML, CSS, JavaScript, React, and REST APIs.</li>
-  <li>Built a Netflix login interface, a live-weather application, and a personal portfolio.</li>
-  <li>Used Git and GitHub during development.</li>
-</ul>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
----
-
-<h2 id="education">🎓 Education & Certifications</h2>
-
-<ul>
-  <li><strong>B.Tech, Computer Science & Engineering</strong> — Shri Ramswaroop Memorial University, Lucknow (2021–2025)</li>
-  <li><strong>The Complete 2024 Web Development Bootcamp</strong> — Udemy (January 2025)</li>
-  <li><strong>The Cybersecurity Threat Landscape</strong> — LinkedIn (March 2024)</li>
-</ul>
-
----
-
-<h2 id="stats" align="center">📊 GitHub Analytics</h2>
+I'm open to opportunities involving **Full Stack Development, Python Backend Development and AI Application Development**.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekpatel2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfolio-vivek-umber.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:vivekpatel9026@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekpatel2004&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Most used languages"/>
+<br/><br/>
 
-  <br/><br/>
+**Building • Learning • Improving**
 
-  <img src="https://streak-stats.demolab.com?user=vivekpatel2004&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<h2 id="contact" align="center">🤝 Let's Build Something Useful</h2>
-
-<p align="center">
-  Interested in full-stack development, Python backend engineering, or AI-powered products? Let's connect.
-</p>
-
-<div align="center">
-
-  <a href="mailto:vivekpatel9026@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/vivekpatel2004">
-    <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vivek-chaudhary-a5a483271/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-vivek-umber.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-DB2777?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06B6D4,45:6D28D9,100:09090B" width="100%" alt="Animated gradient footer"/>
-
-  <h3>✨ Learn continuously. Build thoughtfully. Ship useful software.</h3>
-
-  <p><a href="#top">↑ Back to top</a></p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,100:312e81&height=70&section=footer" width="100%" />
 
 </div>
